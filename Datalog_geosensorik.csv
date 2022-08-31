@@ -1,4 +1,4 @@
-Year,Month,Day,Hour,Minute,Seconds,Ambient Temperature,Object Temperature
+Day,Month,Year,Hour,Minute,Seconds,Ambient_Temperature,Object_Temperature
 31,8,2022,24,53,11,24.13,22.89
 31,8,2022,24,53,12,24.13,22.71
 31,8,2022,24,53,13,24.13,22.87
